@@ -1,11 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=header&text=HenriqueAlth09&fontSize=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=header"/>
+
 
 <div align="center">
 
-<img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueAlth09&theme=transparent"/>
+<img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrosaltorato&theme=gotham"/>
 
-<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueAlth09&theme=transparent"/>
-<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HenriqueAlth09&theme=transparent"/>
+<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrosaltorato&theme=gotham"/>
+<img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrosaltorato&theme=gotham"/>
 
 </div>
 
