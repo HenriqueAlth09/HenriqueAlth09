@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <h1>Olá, eu sou [Seu Nome] 👋</h1>
-  <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Música e Código</i></p>
+  <h1>Olá, eu sou Henrique👋</h1>
+  <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Futebol e Código</i></p>
 
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-1DB954?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/[SEU-USUARIO]?label=Follow&style=for-the-badge&color=24292e" />
@@ -16,7 +16,6 @@
 Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a criação de aplicações **Single Page (SPA)** com estética moderna e o desenvolvimento de motores de jogos leves utilizando **HTML5 Canvas**.
 
 - 💻 **Foco:** Interfaces estilo "Dark Mode" e Performance.
-- 🎵 **Inspirado por:** Spotify Design & Minimalismo.
 - 🕹️ **Hobby:** Criar mecânicas de jogos clássicos com JS Puro.
 
 ---
@@ -29,7 +28,7 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 
 ---
 
-### 🎵 Projeto em Destaque: Tempo
+### Projeto em Destaque: Tempo
 > "Fique informado sobre a previsão do tempo."
 
 <div align="center">
