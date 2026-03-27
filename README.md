@@ -1,26 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header" width="100%" />
-  
-  <svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .pixo { 
-        font-family: 'Courier New', Courier, monospace; 
-        font-weight: 900; 
-        fill: #1DB954; 
-        font-size: 85px; 
-        letter-spacing: -5px;
-        filter: drop-shadow(2px 2px 0px #000);
-      }
-      .line { stroke: #1DB954; stroke-width: 3; }
-    </style>
-    <text x="50%" y="80" text-anchor="middle" class="pixo">
-      ALTHMAN
-    </text>
-    <line x1="120" y1="90" x2="280" y2="90" class="line" />
-    <line x1="150" y1="100" x2="250" y2="100" class="line" />
-  </svg>
-  
-  <p align="center"><i>RUA • CÓDIGO • ARTE</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=ALTHMAN&fontSize=120&animation=fadeIn&fontAlignY=38&fontID=24&fontColor=1DB954&strokeWidth=2&strokeColor=000000" width="100%" />
 </div>
   <h1>Olá, eu sou Henrique 👋</h1>
   <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Futebol e Código</i></p>
