@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# Henrique Althman
 
 **`Desenvolvedora FullStack`**
 
