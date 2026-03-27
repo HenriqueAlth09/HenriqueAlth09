@@ -13,8 +13,6 @@
 ---
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph-dark.svg">
-<img src="<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueAlth09/HenriqueAlth09/output/github-snake-dark.svg">
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/HenriqueAlth09/HenriqueAlth09/output/github-snake.svg">
 </picture>">
