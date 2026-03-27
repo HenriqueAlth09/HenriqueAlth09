@@ -69,7 +69,7 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 ### 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="www.linkedin.com/in/henriquealthman">
+  <a href=https://www.linkedin.com/in/henriquealthman/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:henriquealthmna08@gmail.com">
