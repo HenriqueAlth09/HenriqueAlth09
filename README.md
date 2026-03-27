@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="640" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueAlth09&theme=transparent"/>
+<img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueAlth09&theme=transparent"/>
 
 <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueAlth09&theme=transparent"/>
 <img width="320" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HenriqueAlth09&theme=transparent"/>
