@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=ALTHMAN&fontSize=120&animation=fadeIn&fontAlignY=38&fontID=24&fontColor=1DB954&strokeWidth=2&strokeColor=000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=ALTHMAN&fontSize=100&animation=fadeIn&fontAlignY=38&fontID=32&fontColor=ffffff&strokeWidth=2&strokeColor=1DB954" width="100%" />
 </div>
+
+<div align="center">
   <h1>Olá, eu sou Henrique 👋</h1>
   <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Futebol e Código</i></p>
 
