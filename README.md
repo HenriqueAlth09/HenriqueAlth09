@@ -2,7 +2,8 @@
 
 **`Developer`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Henrique Althman Dos Santos, tenho 16 anos e sou estudante de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e programação, sempre em busca de aprender coisas novas e aprimorar minhas habilidades. Tenho interesse em desenvolvimento de software, lógica de programação e criação de soluções digitais. Dedicação, curiosidade e vontade de evoluir são meus principais motivadores, e estou sempre em busca de projetos que me desafiem e me permitam crescer na área de TI.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
