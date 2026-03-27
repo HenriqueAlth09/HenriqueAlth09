@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Althman.png" alt="ALTHMAN Spray Tag Header" width="100%" />
+  <img src="Althman.png" alt="ALTHMAN Spray Tag Header" width="90%" />
 </div>
 
 <div align="center">
