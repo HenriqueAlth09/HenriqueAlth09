@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=ALTHMAN&fontSize=100&animation=fadeIn&fontAlignY=38&fontID=32&fontColor=ffffff&strokeWidth=2&strokeColor=1DB954" width="100%" />
+  <img src="ALTHMAN_header.png" alt="ALTHMAN Spray Tag Header" width="100%" />
 </div>
 
 <div align="center">
@@ -72,14 +72,4 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:henriquealthmna08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5519971046863">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mhmisick/mhmisick/master/images/line.gif" width="100%">
-</div>
+    <img src="
