@@ -22,7 +22,6 @@
   
   <p align="center"><i>RUA • CÓDIGO • ARTE</i></p>
 </div>
-<div align="center">
   <h1>Olá, eu sou Henrique 👋</h1>
   <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Futebol e Código</i></p>
 
