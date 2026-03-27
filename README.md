@@ -1,5 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=200&section=header&text=Althman&fontSize=100&animation=fadeIn&fontAlignY=38&fontID=71&fontColor=ffffff&strokeWidth=10&strokeColor=121212" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=120&section=header" width="100%" />
+  
+  <svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .pixo { 
+        font-family: 'Courier New', Courier, monospace; 
+        font-weight: 900; 
+        fill: #1DB954; 
+        font-size: 85px; 
+        letter-spacing: -5px;
+        filter: drop-shadow(2px 2px 0px #000);
+      }
+      .line { stroke: #1DB954; stroke-width: 3; }
+    </style>
+    <text x="50%" y="80" text-anchor="middle" class="pixo">
+      ALTHMAN
+    </text>
+    <line x1="120" y1="90" x2="280" y2="90" class="line" />
+    <line x1="150" y1="100" x2="250" y2="100" class="line" />
+  </svg>
+  
+  <p align="center"><i>RUA • CÓDIGO • ARTE</i></p>
 </div>
 <div align="center">
   <h1>Olá, eu sou Henrique 👋</h1>
