@@ -17,8 +17,7 @@ Sou Henrique Althman Dos Santos, tenho 16 anos e sou estudante de Desenvolviment
 
 <br/>
 
-![Typing SVG]([![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80))
-
+![Typing SVG]([![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=30BF86&center=true&vCenter=true&width=500&lines=+Developer;C%2B%2B+%7C+JavaScript+%7C+Node.js;Building+cool+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)]
 </div>
 
 <br/>
