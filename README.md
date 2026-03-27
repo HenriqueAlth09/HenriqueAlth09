@@ -18,9 +18,10 @@
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueAlth09/HenriqueAlth09/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/HenriqueAlth09/HenriqueAlth09/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/leandrosaltorato/leandrosaltorato/output/pacman-contribution-graph.svg">
 </picture>
+
 
 ---
 
