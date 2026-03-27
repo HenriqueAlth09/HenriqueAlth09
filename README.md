@@ -25,7 +25,7 @@ Sou Henrique Althman Dos Santos, tenho 16 anos e sou estudante de Desenvolviment
 
 ---
 
-<img align="right" width="360" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julianopls&theme=transparent"/>
+<img align="right" width="360" src=/>
 
 ### `> whoami`
 
@@ -44,7 +44,7 @@ based:    Brazil 🇧🇷
 ### `> git log --oneline`
 
 <div align="center">
-<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianopls&theme=transparent"/>
+<img width="100%" src="![Estatísticas do GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueAlth09&theme=transparent)/>
 </div>
 
 <br/>
