@@ -69,13 +69,13 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 ### 📫 Vamos Conversar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-PERFIL">
+  <a href="www.linkedin.com/in/henriquealthman">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:henriquealthmna08@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/SEUNUMERO">
+  <a href="https://wa.me/19971046863">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
