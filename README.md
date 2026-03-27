@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="ALTHMAN_header.png" alt="ALTHMAN Spray Tag Header" width="100%" />
+  <img src="AGemini_Generated_Image_ppipv6ppipv6ppip.png" alt="ALTHMAN Spray Tag Header" width="100%" />
 </div>
 
 <div align="center">
