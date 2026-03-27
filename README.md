@@ -29,8 +29,8 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 
 ---
 
-### 🎵 Projeto em Destaque: Musicify
-> "Onde o código encontra o ritmo."
+### 🎵 Projeto em Destaque: Tempo
+> "Fique informado sobre a previsão do tempo."
 
 <div align="center">
   <table border="0">
@@ -39,11 +39,7 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3ZxeG54NHR4NHR4NHR4NHR4NHR4NHR4NHR4NHR4NHR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29mJmN0PWc/3o7TKMGpxP5O0G5U6A/giphy.gif" width="100%" />
       </td>
       <td width="50%">
-        <h4>Clone Premium do Spotify</h4>
-        <p>• Integração real com API de música.</p>
-        <p>• Visual 100% responsivo e animado.</p>
-        <p>• Player de áudio com barra de progresso dinâmica.</p>
-        <a href="LINK-DO-REPO"><b>Ver Repositório →</b></a>
+        <a href="https://github.com/HenriqueAlth09/SENAI-DES/tree/main/3%C2%B0%20Semestre/PFE/Pasta01/Aula%2004"><b>Ver Repositório →</b></a>
       </td>
     </tr>
   </table>
