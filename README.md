@@ -25,8 +25,6 @@
 
 ---
 
-<h2 align="center">Coding with</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,git,flutter" />
@@ -38,5 +36,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,mysql,prisma,react" />
   </a>
 </p>
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=30BF86&section=footer"/>
