@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Olá, eu sou Henrique 👋</h1>
-  <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Futebol e Código</i></p>
+  <p><i>Desenvolvedor Full Stack | UI Designer | Apaixonado por Códigos</i></p>
 
   <img src="https://img.shields.io/badge/Status-Disponível%20para%20Projetos-1DB954?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/followers/HenriqueAlth09?label=Follow&style=for-the-badge&color=24292e" />
