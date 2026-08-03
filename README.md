@@ -34,46 +34,6 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 
 ---
 
-### 🌦️ Projeto em Destaque: Tempo
-
-> *"Fique informado sobre a previsão do tempo com precisão e estilo."*
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3ZxeG54NHR4NHR4NHR4NHR4NHR4NHR4NHR4NHR4NHR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29mJmN0PWc/3o7TKMGpxP5O0G5U6A/giphy.gif" width="100%" alt="Weather Dashboard Preview" />
-      </td>
-      <td width="50%" align="left">
-        <h4>Weather Dashboard</h4>
-        <p>• Consulta de API em tempo real.</p>
-        <p>• Design responsivo e minimalista.</p>
-        <p>• Histórico de buscas integradas.</p>
-        <br>
-        <a href="https://github.com/HenriqueAlth09/SENAI-DES/tree/main/3%C2%B0%20Semestre/PFE/Pasta01/Aula%2004"><b>Ver Repositório →</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 Atividade no GitHub (Live Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueAlth09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAlth09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=121212&title_color=1DB954" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAlth09&theme=tokyonight&hide_border=true&background=121212&ring=1DB954&sideNums=1DB954&currStreakLabel=1DB954" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📫 Vamos Conversar?
 
 <div align="center">
