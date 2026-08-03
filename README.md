@@ -60,16 +60,17 @@ Eu transformo café em interfaces elegantes e código limpo. Meu foco atual é a
 
 ### 📊 Atividade no GitHub (Live Stats)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueAlth09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAlth09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=121212&title_color=1DB954" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueAlth09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954" alt="GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAlth09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=121212&title_color=1DB954" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAlth09&theme=tokyonight&hide_border=true&background=121212&ring=1DB954&sideNums=1DB954&currStreakLabel=1DB954" width="100%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAlth09&theme=tokyonight&hide_border=true&background=121212&ring=1DB954&sideNums=1DB954&currStreakLabel=1DB954" alt="GitHub Streak" />
+</p>
 
 ---
 
